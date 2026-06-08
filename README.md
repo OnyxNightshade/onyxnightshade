@@ -1,2 +1,2 @@
-# onyx-ea
+# onyxnightshade
 ONYX NIGHTSHADE - The Ultimate Autonomous Trading Robot | AI-Powered | MT5
