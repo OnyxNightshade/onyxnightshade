@@ -1,5 +1,4 @@
 
-# ONYX NIGHTSHADE
 
 **Silent entry. Profitable exit.**
 
